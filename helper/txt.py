@@ -71,7 +71,7 @@ Example:- /set_caption 📕 File Name: {filename}
 <b><u>Special Thanks & Developers</b></u> 
 
 » ᴊᴏɪɴ : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>ᴄᴀᴍᴘᴜs ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs</a>
-» ᴍᴀɪɴ ᴊᴏɪɴ : <a href=https://youtu.be/GfulqsSnTv4>ᴀɴɪᴍᴇ ᴄᴀᴍᴘᴜs</a>
+» ᴍᴀɪɴ ᴊᴏɪɴ : <a href=>ᴀɴɪᴍᴇ ᴄᴀᴍᴘᴜs</a>
 
-• ❣️ <a href=https://t.me/about_jeol>𝙽 𝙰 𝙽 𝙰 𝙼 </a>
+• ❣️ <a href=http://The_Nanamii.t.me>𝙽 𝙰 𝙽 𝙰 𝙼 </a>
 """
