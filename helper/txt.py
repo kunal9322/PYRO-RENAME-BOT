@@ -63,15 +63,15 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/PYRO_BOTZ_CHAT>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Campus_Bot_Updates>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» ᴊᴏɪɴ : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>ᴄᴀᴍᴘᴜs ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs</a>
-» ᴍᴀɪɴ ᴊᴏɪɴ : <a href=>ᴀɴɪᴍᴇ ᴄᴀᴍᴘᴜs</a>
+» ᴊᴏɪɴ : <a href=https://t.me/Campus_Bot_Updates>ᴄᴀᴍᴘᴜs ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs</a>
+» ᴍᴀɪɴ ᴊᴏɪɴ : <a href=https://t.me/Anime_Campus>ᴀɴɪᴍᴇ ᴄᴀᴍᴘᴜs</a>
 
 • ❣️ <a href=http://The_Nanamii.t.me>𝙽 𝙰 𝙽 𝙰 𝙼 </a>
 """
