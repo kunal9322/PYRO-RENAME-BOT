@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/PYRO_BOTZ/53>ᴀɴɪᴍᴇ ᴄᴀᴍᴘᴜs</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>ᴋᴜɴᴀʟ ɢᴀɪᴋᴡᴀᴅ</a>
+├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/Campus_Bot_Updates>𝙲𝙰𝙼𝙿𝚄𝚂 𝙱𝙾𝚃</a> 
+├👨‍💻 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/MH17_KUNAL>𝙺𝚄𝙽𝙰𝙻</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
@@ -73,5 +73,5 @@ Example:- /set_caption 📕 File Name: {filename}
 » ᴊᴏɪɴ : <a href=https://t.me/Campus_Bot_Updates>ᴄᴀᴍᴘᴜs ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs</a>
 » ᴍᴀɪɴ ᴊᴏɪɴ : <a href=https://t.me/Anime_Campus>ᴀɴɪᴍᴇ ᴄᴀᴍᴘᴜs</a>
 
-• ❣️ <a href=http://The_Nanamii.t.me>𝙽 𝙰 𝙽 𝙰 𝙼 </a>
+• ❣️ <a href=http://The_Nanamii.t.me>𝙽 𝙰 𝙽 𝙰 𝙼 𝙸</a>
 """
