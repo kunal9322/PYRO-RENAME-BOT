@@ -6,9 +6,9 @@ API_ID = os.environ.get("API_ID", "16743442")
 
 API_HASH = os.environ.get("API_HASH", "12bbd720f4097ba7713c5e40a11dfd2a")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5913387061:AAHP98B0-2RGnfo-IGcDHYQfsFksZTxRYWo") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5913387061:AAHrOXlle1qdWj__kL-9ww-KyfM3TlQhd-E") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "-1001952437599") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "-1001813095890") 
 
 DB_NAME = os.environ.get("DB_NAME","kunal")     
 
